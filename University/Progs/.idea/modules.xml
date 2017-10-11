@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CompareTwoNums/CompareTwoNums.iml" filepath="$PROJECT_DIR$/CompareTwoNums/CompareTwoNums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateDayFinder/DateDayFinder.iml" filepath="$PROJECT_DIR$/DateDayFinder/DateDayFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" filepath="$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FahrenheitToCelsius/FahrenheitToCelsius.iml" filepath="$PROJECT_DIR$/FahrenheitToCelsius/FahrenheitToCelsius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeGreetings/GradeGreetings.iml" filepath="$PROJECT_DIR$/GradeGreetings/GradeGreetings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LagestOfThree/LagestOfThree.iml" filepath="$PROJECT_DIR$/LagestOfThree/LagestOfThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MalUrl/MalUrl.iml" filepath="$PROJECT_DIR$/MalUrl/MalUrl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaternA/PaternA.iml" filepath="$PROJECT_DIR$/PaternA/PaternA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Progs.iml" filepath="$PROJECT_DIR$/Progs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomNums/RandomNums.iml" filepath="$PROJECT_DIR$/RandomNums/RandomNums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arithmatic/Arithmatic.iml" filepath="$PROJECT_DIR$/Arithmatic/Arithmatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayExercise/ArrayExercise.iml" filepath="$PROJECT_DIR$/ArrayExercise/ArrayExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListAdv/ArrayListAdv.iml" filepath="$PROJECT_DIR$/ArrayListAdv/ArrayListAdv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListSample/ArrayListSample.iml" filepath="$PROJECT_DIR$/ArrayListSample/ArrayListSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayType/ArrayType.iml" filepath="$PROJECT_DIR$/ArrayType/ArrayType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayType/ArrayTypeExercise.iml" filepath="$PROJECT_DIR$/ArrayType/ArrayTypeExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArthOperator/ArthOperator.iml" filepath="$PROJECT_DIR$/ArthOperator/ArthOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment/Assignment.iml" filepath="$PROJECT_DIR$/Assignment/Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassDemo/ClassDemo.iml" filepath="$PROJECT_DIR$/ClassDemo/ClassDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core.iml" filepath="$PROJECT_DIR$/Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoop/ForLoop.iml" filepath="$PROJECT_DIR$/ForLoop/ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Geny/Geny.iml" filepath="$PROJECT_DIR$/Geny/Geny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetterSetter/GetterSetter.iml" filepath="$PROJECT_DIR$/GetterSetter/GetterSetter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logical/Logical.iml" filepath="$PROJECT_DIR$/Logical/Logical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxyFinder/MaxyFinder.iml" filepath="$PROJECT_DIR$/MaxyFinder/MaxyFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimitiveDataType/PrimitiveDataType.iml" filepath="$PROJECT_DIR$/PrimitiveDataType/PrimitiveDataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relational/Relational.iml" filepath="$PROJECT_DIR$/Relational/Relational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TryCatch/TryCatch.iml" filepath="$PROJECT_DIR$/TryCatch/TryCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While/While.iml" filepath="$PROJECT_DIR$/While/While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifElse/ifElse.iml" filepath="$PROJECT_DIR$/ifElse/ifElse.iml" />
+    </modules>
+  </component>
+</project>

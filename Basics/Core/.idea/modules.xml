@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/Logical/Logical.iml" filepath="$PROJECT_DIR$/Logical/Logical.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxyFinder/MaxyFinder.iml" filepath="$PROJECT_DIR$/MaxyFinder/MaxyFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyLinkedList/MyLinkedList.iml" filepath="$PROJECT_DIR$/MyLinkedList/MyLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimitiveDataType/PrimitiveDataType.iml" filepath="$PROJECT_DIR$/PrimitiveDataType/PrimitiveDataType.iml" />
       <module fileurl="file://$PROJECT_DIR$/Relational/Relational.iml" filepath="$PROJECT_DIR$/Relational/Relational.iml" />
